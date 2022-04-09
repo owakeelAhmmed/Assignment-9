@@ -1,9 +1,9 @@
 import React from 'react';
-
+import LineChart from '../LineChart/LineChart';
 const Dashboard = () => {
     return (
         <div>
-            <h1>Hellow Dashboard</h1>
+            <LineChart></LineChart>
         </div>
     );
 };

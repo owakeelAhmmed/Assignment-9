@@ -1,6 +1,6 @@
 import React from 'react';
 import img1 from '../images/headphones.png';
-import home from './Home.css'
+import './Home.css'
 const Home = () => {
     return (
         <div className="flex ">

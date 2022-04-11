@@ -1,7 +1,7 @@
 import React from 'react';
-import { Area, AreaChart } from 'recharts';
+import { Area, AreaChart, Line, LineChart } from 'recharts';
 
-const LineChart = () => {
+const MyLineChart = () => {
     const data = [
         {
             "month": "Mar",
@@ -41,12 +41,12 @@ const LineChart = () => {
         }
     ]
     return (
-        <div>
-        <LineChart>
-
-            
-        </LineChart>
-        </div>
+        <div></div>
+    //     <LineChart width={730} height={250} data={data}
+    //     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
+    //     <Line  dataKey="month" stroke="#8884d8" />
+    //     <Line  dataKey="uv" stroke="#82ca9d" />
+    //   </LineChart>
     );
 };
 

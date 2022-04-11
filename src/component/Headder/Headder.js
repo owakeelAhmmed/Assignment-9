@@ -11,7 +11,7 @@ const Headder = () => {
             <div className='flex gap-4 text-xl font-sans font-bold'>
             <Customlink to='/'>HOME</Customlink>
             <Customlink to='/Reviews'>REVIEWS</Customlink>
-          
+            <Customlink to='/Dashboard'>DASHBOARD</Customlink>
 
             </div>
             

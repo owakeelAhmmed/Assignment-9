@@ -1,7 +1,7 @@
 # Sound Techs
 
 ## Github Link
-* https://github.com/facebook/create-react-app
+* https://github.com/programming-hero-web-course-4/product-analysis-website-owakeelAhmmed
 
 ## Live Site
  * https://github.com/facebook/create-react-app

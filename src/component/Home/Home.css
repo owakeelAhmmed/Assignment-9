@@ -4,3 +4,7 @@ body{
 .header-style{
     height: 100vh;
 }
+.see-btn{
+    margin-left: 50%;
+    margin-top: 26px;
+}

@@ -18,7 +18,7 @@ const Home = () => {
         </div>
         <div className="mb-5">
             <Reviews/>
-            <button className='text-slate-50 rounded-md font-bold ml-5 p-2 bg-red-700'>  
+            <button className='see-btn text-slate-50 rounded-md font-bold ml-5 p-2 bg-red-700'>  
             <Customlink to='/Reviews'>See All</Customlink></button>
         </div>
         

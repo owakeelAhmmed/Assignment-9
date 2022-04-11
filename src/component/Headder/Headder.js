@@ -12,6 +12,7 @@ const Headder = () => {
             <Customlink to='/'>HOME</Customlink>
             <Customlink to='/Reviews'>REVIEWS</Customlink>
             <Customlink to='/Dashboard'>DASHBOARD</Customlink>
+            <Customlink to='/Blog'>BLOG</Customlink>
 
             </div>
             

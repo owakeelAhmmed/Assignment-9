@@ -13,9 +13,9 @@ const Card = (props) => {
                 </div>
 
                 <div className='mt-4'>
-                    <h1 className='font-bold'>Name: {name}</h1>
+                    <h1 className='font-bold'>{name}</h1>
                     <p>{message}</p>
-                    <span className='flex items-center '> <FcRating/> {rate}</span>
+                    <span className='flex ml-12  items-center '> <FcRating/> {rate}</span>
                 </div>
 
             </div>
